@@ -1,0 +1,7 @@
+1. The base case is the length of the hitting 1
+
+2. The arguments are degrees turned and the length
+
+3. First goal : Learning turtle functions
+second : drawing lines aka have a one sided tree
+makeing a tree with 3 branches
